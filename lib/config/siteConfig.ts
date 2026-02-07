@@ -21,7 +21,7 @@ export const SITE_CONFIG: SiteConfig = {
     process.env.NEXT_PUBLIC_APP_DESCRIPTION || 'Your trusted online shopping destination for quality products and services',
   brandImageUrl:
     process.env.NEXT_PUBLIC_BRAND_IMAGE_URL || 'https://siliya-electricals.vercel.app/logo.png',
-  defaultBusinessName: process.env.NEXT_PUBLIC_DEFAULT_BUSINESS_NAME || 'Our Business',
+  defaultBusinessName: process.env.NEXT_PUBLIC_DEFAULT_BUSINESS_NAME || 'Siliya Electricals',
   defaultContactEmail: process.env.NEXT_PUBLIC_DEFAULT_CONTACT_EMAIL || 'hie@siliya-electricals.techcure.tech',
   defaultContactPhone: process.env.NEXT_PUBLIC_DEFAULT_CONTACT_PHONE || '+265 981 819 389',
   appUrl: process.env.NEXT_PUBLIC_APP_URL || 'https://siliya-electricals.vercel.app',

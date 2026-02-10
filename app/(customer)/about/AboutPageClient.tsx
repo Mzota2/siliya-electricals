@@ -18,24 +18,24 @@ export default function AboutPageClient() {
 
   const coreValues = [
     {
-      icon: '💡',
-      title: 'Innovation',
-      description: 'Continuously pushing boundaries to develop groundbreaking solutions that redefine industry standards.',
+      icon: '⚡',
+      title: 'Reliability',
+      description: 'Dependable electrical solutions that power your life with consistency and trust.',
     },
     {
       icon: '🛡️',
-      title: 'Integrity',
-      description: 'Operating with unwavering honesty, transparency, and ethical conduct in all our engagements.',
+      title: 'Safety',
+      description: 'Prioritizing your security with rigorously tested products and expert installation services.',
     },
     {
-      icon: '⚙️',
-      title: 'Excellence',
-      description: 'Striving for the highest quality in products and services, always exceeding expectations.',
+      icon: '💡',
+      title: 'Innovation',
+      description: 'Bringing cutting-edge electrical technology and energy-efficient solutions to your home.',
     },
     {
-      icon: '✓',
-      title: 'Customer Focus',
-      description: 'Prioritizing client needs and success, building lasting partnerships through dedicated support.',
+      icon: '🤝',
+      title: 'Customer Service',
+      description: 'Expert guidance and personalized support to meet all your electrical needs.',
     },
   ];
 

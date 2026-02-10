@@ -18,7 +18,7 @@ export interface SiteConfig {
 export const SITE_CONFIG: SiteConfig = {
   appTitle: process.env.NEXT_PUBLIC_APP_TITLE || 'Siliya Electricals',
   appDescription:
-    process.env.NEXT_PUBLIC_APP_DESCRIPTION || 'Your trusted online shopping destination for quality products and services',
+    process.env.NEXT_PUBLIC_APP_DESCRIPTION || 'Your trusted partner for quality electrical solutions, appliances, and expert services. Powering homes and businesses with reliability, safety, and innovation.',
   brandImageUrl:
     process.env.NEXT_PUBLIC_BRAND_IMAGE_URL || 'https://siliya-electricals.vercel.app/logo.png',
   defaultBusinessName: process.env.NEXT_PUBLIC_DEFAULT_BUSINESS_NAME || 'Siliya Electricals',
